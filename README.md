@@ -37,7 +37,6 @@
 <br>
 
 # 💡 Interest
-
 - Data Engineering
 - Google Cloud Platform
 - Hadoop Ecosystem
