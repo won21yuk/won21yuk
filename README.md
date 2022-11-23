@@ -4,7 +4,6 @@
 
 내 삶을 변화시키는 건 다른 누구도 아닌 오직 나만이 가능하다.
 
-<br>
 
 # ⚒️Skill tools
 ## Knowledgeable
@@ -18,12 +17,7 @@
 <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-<br>
-<br>
-
 ## Experienced
-
-<br>
 
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
@@ -33,15 +27,10 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/MongoDB-47A2448?style=for-the-badge&logo=MongoDB&logoColor=white">
 
-<br>
-<br>
-
 # 💡 Interest
 - Data Engineering
 - Google Cloud Platform
 - Hadoop Ecosystem
-
-<br>
 
 # ✅ My Activities
 ## Blog
@@ -50,7 +39,6 @@
     <img src="https://img.shields.io/badge/Tech blog-181717?style=for-the-badge&logo=Github&logoColor=white">
 </a>
 
-<br>
 
 ## Github
 
