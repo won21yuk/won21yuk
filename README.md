@@ -8,8 +8,6 @@
 # ⚒️Skill tools
 ## Knowledgeable
 
-<br>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCEE?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white">
