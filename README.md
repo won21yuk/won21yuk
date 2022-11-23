@@ -2,7 +2,7 @@
 
 <h1>“Only i can change my life, no one can do it for me”</h1>
 
-내 삶을 변화시키는 건 다른 누구도 아닌 오직 나만 가능하다.
+내 삶을 변화시키는 건 다른 누구도 아닌 오직 나만이 가능하다.
 
 <br>
 
