@@ -38,4 +38,4 @@
 
 ### Github
 
-![won21yuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=won21yuk&theme=dark&show_icons=true)
+![won21yuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=won21yuk&show_icons=true&theme=dark)
