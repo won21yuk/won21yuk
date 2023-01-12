@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCEE?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
