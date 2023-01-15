@@ -29,7 +29,6 @@
 - Data Engineering
 - Google Cloud Platform
 - Hadoop Ecosystem
-- Infrastructure
 
 ## ✅ My Activities
 ### Blog
